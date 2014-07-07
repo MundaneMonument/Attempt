@@ -1,5 +1,6 @@
 p {
 margin-left: 20px;
 text-align: left;
-font: Helvetica; 
+font-family: "Georgia", Georgia, serif; 
+font-style: italic;
 }
